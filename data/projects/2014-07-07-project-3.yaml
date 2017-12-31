@@ -1,0 +1,10 @@
+modalID: 3
+title: Tic-Tac-Toe
+subtitle: The Classic Tic-Tac-Toe game made with the help of C++
+date: 2017-8-12
+img: treehouse.png
+preview: treehouse-preview.png
+client: none
+clientLink: ""
+category: C++
+description: Its the classic game made in C++ in which the user is provide the 3 by 3 array and the selected numbers get crossed out marked as O as per the chance. <br><br>You can download the game at<a href=""> my repository</a>.
