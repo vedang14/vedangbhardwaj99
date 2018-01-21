@@ -1,10 +1,10 @@
 modalID: 4
 title: Ineractive UI Calc
-subtitle: Calculator made using JAVA.
+subtitle: Calculator made in JAVA.
 date: 2018-01-10
 img: escape.png
 preview: escape-preview.png
 client: None
 clientLink: "#"
-category: Website Design
+category: JAVA
 description: Simple Interactive calculator made in java to perform basic mathematics operations,with backspace and clear functionality.<br><br>You can view the source code and layout on my <a href ="https://github.com/vedang14">repo</a>.
