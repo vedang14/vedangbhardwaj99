@@ -244,8 +244,8 @@ googleAnalytics = "UA-111796815-1"
     email = "vedang.bhardwaj14@gmail.com"
 
     # Success and error message overwrite for async contact form
-    thanks = "Thank you for awesomely contacting us."
-    error = "Message could not be send. Please contact us at mail@example.com instead."
+    thanks = "Thank you for contacting us will get back to you within 48 hours :)."
+    error = "Message could not be send. Try to contact us at social profiles instead ."
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
