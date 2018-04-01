@@ -1,0 +1,10 @@
+modalID: 5
+title: User Login and Signup Authentication App
+subtitle: With Animated Splash Screen and using real time database
+date: 2018-31-3
+img: golden.png
+preview: golden-preview.png
+client: none
+clientLink: "#"
+category: Android Development
+description:  A simple user-friendly Login and Signup App for Android using Firebase as its Database for fetching Real time data and easy Analytics, have used Google and Facebook Api's for easy Login and have also implemented an animated Splash Screen for a bit Classy touch. <br><br>You can view the source code and layout on my <a href ="https://github.com/vedang14">repo</a>.
